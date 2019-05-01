@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d6743dd-17b2-49b1-8da5-8b63103c79d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../basic_golang/.idea/codeStyleSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_golang/.idea/libraries/GOPATH__basic_golang_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic_golang/hellogo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geekvideo_learninggo/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geekvideo_learninggo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geekvideo_learninggo/ch01/hello.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geekvideo_learninggo/ch02/consttest/const_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geekvideo_learninggo/ch02/fib/fib_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geekvideo_learninggo/ch02/test/first_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geekvideo_learninggo/ch03/type_test/type_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geekvideo_learninggo/ch04/operator_test/operator_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geekvideo_learninggo/ch05/condition/condition_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geekvideo_learninggo/ch05/loop/loop_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geekvideo_learninggo/ch06/array/array_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geekvideo_learninggo/ch06/slice/slice_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geekvideo_learninggo/ch08/map/map_ext_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geekvideo_learninggo/ch09/string/string_fun_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geekvideo_learninggo/ch09/string/string_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geekvideo_learninggo/ch11/customer_type/customer_type_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geekvideo_learninggo/ch11/encapsulation/encap_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geekvideo_learninggo/ch11/interface/interface_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geekvideo_learninggo/ch12/extension/extension_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geekvideo_learninggo/ch13/empty_interface/empty_interface_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch01/chinese.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch01/simple.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/chatbot/chatbot.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/chatbot/chinese.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/chatbot/english.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/ProcessDemo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/pipeline/pipeline_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/socket/my_client.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/socket/my_server.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../begining_learning/bin/gocode" beforeDir="false" afterPath="$PROJECT_DIR$/../begining_learning/bin/gocode" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../begining_learning/src/github.com/nsf/gocode" beforeDir="false" afterPath="$PROJECT_DIR$/../begining_learning/src/github.com/nsf/gocode" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch03/ProcessDemo.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch03/pipeline/pipeline_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+              <folding>
+                <element signature="e#23#73#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/Cellar/go/1.11.4/libexec/src/os/exec.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="66" column="5" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/Cellar/go/1.11.4/libexec/src/syscall/syscall_unix.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="156" column="5" selection-start-line="156" selection-start-column="5" selection-end-line="156" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch03/socket/my_server.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#14#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ch03/socket/my_client.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch02/chatbot/chatbot.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch02/chatbot/chinese.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="725">
+              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+              <folding>
+                <element signature="e#17#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch02/chatbot/english.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1392">
+              <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
+              <folding>
+                <element signature="e#17#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch01/chinese.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.11.4/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ch01/simple.go" />
+        <option value="$PROJECT_DIR$/ch01/chinese.go" />
+        <option value="$PROJECT_DIR$/ch02/chatbot/chatbot.go" />
+        <option value="$PROJECT_DIR$/ch02/chatbot/chinese.go" />
+        <option value="$PROJECT_DIR$/ch02/main.go" />
+        <option value="$PROJECT_DIR$/src/ch02/chatbot/english.go" />
+        <option value="$PROJECT_DIR$/src/ch02/main.go" />
+        <option value="$PROJECT_DIR$/src/ch03/ProcessDemo.go" />
+        <option value="$PROJECT_DIR$/src/ch03/Pipeline_test.go" />
+        <option value="$PROJECT_DIR$/src/ch03/pipeline/pipeline_test.go" />
+        <option value="$PROJECT_DIR$/src/ch03/socket/my_server.go" />
+        <option value="$PROJECT_DIR$/src/ch03/socket/my_client.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="go_concurreny" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go_concurreny" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go_concurreny" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go_concurreny" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go_concurreny" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go_concurreny" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ch02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go_concurreny" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go_concurreny" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ch02" type="462c0819:PsiDirectoryNode" />
+              <item name="chatbot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go_concurreny" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go_concurreny" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ch03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go_concurreny" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go_concurreny" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ch03" type="462c0819:PsiDirectoryNode" />
+              <item name="socket" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go_concurreny" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="go_concurreny" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Go SDK 1.11.4" type="20ee2d1f:SyntheticLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ch03/pipeline" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build my_server.go">
+    <configuration name="go build ProcessDemo.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_concurreny" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/ch03/ProcessDemo.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_concurreny" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <parameters value="-chatbot=simple.en" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/ch02/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build my_server.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_concurreny" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/ch03/socket/my_server.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pipeline_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go_concurreny" />
+      <working_directory value="$PROJECT_DIR$/src/ch03" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/src/ch03/Pipeline_test.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_Pipeline in ch03/pipeline" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go_concurreny" />
+      <working_directory value="$PROJECT_DIR$/src/ch03/pipeline" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="ch03/pipeline" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^Test_Pipeline$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build main.go" />
+      <item itemvalue="Go Build.go build ProcessDemo.go" />
+      <item itemvalue="Go Test.Pipeline_test.go" />
+      <item itemvalue="Go Test.Test_Pipeline in ch03/pipeline" />
+      <item itemvalue="Go Build.go build my_server.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build my_server.go" />
+        <item itemvalue="Go Test.Test_Pipeline in ch03/pipeline" />
+        <item itemvalue="Go Test.Pipeline_test.go" />
+        <item itemvalue="Go Build.go build ProcessDemo.go" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test_Pipeline_in_ch03_pipeline - 2019.04.05 at 10h 36m 43s.xml">
+      <configuration name="Test_Pipeline in ch03/pipeline" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_Pipeline_in_ch03_pipeline - 2019.04.05 at 10h 37m 41s.xml">
+      <configuration name="Test_Pipeline in ch03/pipeline" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2540453" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329235" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3989071" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Statistic" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.329235" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/ch01/simple.go</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/ch03/ProcessDemo.go</url>
+          <line>48</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ch01/simple.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1073">
+          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch02/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Applications/go/src/sigs.k8s.io/kind/pkg/exec/exec.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/go/1.11.4/libexec/src/flag/flag.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20445">
+          <caret line="715" selection-start-line="715" selection-end-line="715" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch02/chatbot/chatbot.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch02/chatbot/chinese.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+          <folding>
+            <element signature="e#17#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch02/chatbot/english.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1392">
+          <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
+          <folding>
+            <element signature="e#17#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch01/chinese.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch03/ProcessDemo.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch03/pipeline/pipeline_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+          <folding>
+            <element signature="e#23#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/go/1.11.4/libexec/src/os/exec.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="66" column="5" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/go/1.11.4/libexec/src/syscall/asm9_unix1_amd64.s">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-836" />
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/go/1.11.4/libexec/src/syscall/syscall_unix.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="156" column="5" selection-start-line="156" selection-start-column="5" selection-end-line="156" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch03/socket/my_server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#14#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch03/socket/my_client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

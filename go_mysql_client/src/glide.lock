@@ -1,0 +1,25 @@
+hash: 8ffd6fbaffaf5202072bec6dd1eb51673f53c64493ccfa83cb741af358a9ddaa
+updated: 2019-01-21T01:18:13.931636+08:00
+imports:
+- name: github.com/codegangsta/cli
+  version: cfb38830724cc34fedffe9a2a29fb54fa9169cd1
+- name: github.com/pingcap/errors
+  version: 1176802fff62540cc87d289bd40c52a2d6b2ea16
+- name: github.com/satori/go.uuid
+  version: b2ce2384e17bbe0c6d34077efa39dbab3e09123b
+- name: github.com/siddontang/go
+  version: bdc77568d726a8702315ec4eafda030b6abc4f43
+  subpackages:
+  - hack
+- name: github.com/siddontang/go-log
+  version: 8d05993dda0722163e59b0e79e8c6dda6c38d5c0
+  subpackages:
+  - log
+  - loggers
+- name: github.com/siddontang/go-mysql
+  version: 00086da2c732585bc7b20a16c68e9b04ba339ced
+  subpackages:
+  - client
+  - mysql
+  - packet
+testImports: []

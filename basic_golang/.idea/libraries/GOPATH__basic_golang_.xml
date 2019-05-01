@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;basic_golang&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../begining_learning/src/.DS_Store" />
+      <root url="file://$PROJECT_DIR$/../begining_learning/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../begining_learning/src/gopkg.in" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../begining_learning/src/github.com/nsf/gocode/_gccgo" />
+      <root url="file://$PROJECT_DIR$/../begining_learning/src/github.com/alecthomas/gometalinter/.git" />
+      <root url="file://$PROJECT_DIR$/../begining_learning/src/github.com/alecthomas/units/.git" />
+      <root url="file://$PROJECT_DIR$/../begining_learning/src/github.com/alecthomas/template/.git" />
+      <root url="file://$PROJECT_DIR$/../begining_learning/src/github.com/alecthomas/template/testdata" />
+      <root url="file://$PROJECT_DIR$/../begining_learning/src/gopkg.in/alecthomas/kingpin.v2/_examples" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../begining_learning/src/github.com/nsf/gocode/_goremote" />
+      <root url="file://$PROJECT_DIR$/../begining_learning/src/github.com/nsf/gocode/.git" />
+      <root url="file://$PROJECT_DIR$/../begining_learning/src/gopkg.in/alecthomas/kingpin.v2/.git" />
+      <root url="file://$PROJECT_DIR$/../begining_learning/src/github.com/nsf/gocode/_testing" />
+      <root url="file://$PROJECT_DIR$/../begining_learning/src/github.com/google/shlex/.git" />
+    </excluded>
+  </library>
+</component>
