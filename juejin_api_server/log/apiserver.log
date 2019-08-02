@@ -1,0 +1,44 @@
+{"level":"INFO","timestamp":"2019-06-08 11:00:08.431","file":"demo5/main.go:54","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2019-06-08 11:00:15.498","file":"demo5/main.go:54","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2019-06-08 11:00:24.856","file":"demo5/main.go:54","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2019-06-08 11:00:26.123","file":"demo5/main.go:54","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2019-06-08 11:00:28.793","file":"demo5/main.go:54","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2019-06-08 11:00:29.796","file":"demo5/main.go:54","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2019-06-08 11:00:30.796","file":"demo5/main.go:54","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2019-06-08 11:00:31.799","file":"demo5/main.go:54","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2019-06-08 11:00:32.800","file":"demo5/main.go:54","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2019-06-08 11:00:33.800","file":"demo5/main.go:54","msg":"Waiting for the router, retry in 1 second"}
+{"level":"FATAL","timestamp":"2019-06-08 11:00:34.801","file":"demo5/main.go:39","msg":"The router has no response, or it might took too long to start up.","data":{"error":"Cannot connect to the router","trace":"goroutine 50 [running]:\ngithub.com/lexkong/log/lager.(*logger).logs(0xc00009e300, 0xc00026cbc0, 0x2, 0x2, 0x4, 0x4ae6d66, 0x42, 0x4c115e0, 0xc00026cba0, 0x0, ...)\n\t/Users/pollux/Applications/go/src/github.com/lexkong/log/lager/logger.go:135 +0x1d4\ngithub.com/lexkong/log/lager.(*logger).log(0xc00009e300, 0x4, 0x4ae6d66, 0x42, 0x4c115e0, 0xc00026cba0, 0x0, 0x0, 0x0)\n\t/Users/pollux/Applications/go/src/github.com/lexkong/log/lager/logger.go:123 +0x120\ngithub.com/lexkong/log/lager.(*logger).Fatal(0xc00009e300, 0x4ae6d66, 0x42, 0x4c115e0, 0xc00026cba0, 0x0, 0x0, 0x0)\n\t/Users/pollux/Applications/go/src/github.com/lexkong/log/lager/logger.go:197 +0x83\ngithub.com/lexkong/log.Fatal(0x4ae6d66, 0x42, 0x4c115e0, 0xc00026cba0, 0x0, 0x0, 0x0)\n\t/Users/pollux/Applications/go/src/github.com/lexkong/log/st_lager.go:162 +0x80\nmain.main.func1()\n\t/Users/pollux/Documents/MySample/github/golang_learning/juejin_api_server/src/demo5/main.go:39 +0x74\ncreated by main.main\n\t/Users/pollux/Documents/MySample/github/golang_learning/juejin_api_server/src/demo5/main.go:37 +0x191\n"}}
+{"level":"INFO","timestamp":"2019-06-08 11:01:27.958","file":"demo5/main.go:54","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2019-06-08 11:01:28.959","file":"demo5/main.go:54","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2019-06-08 11:01:29.962","file":"demo5/main.go:54","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2019-06-08 11:01:30.963","file":"demo5/main.go:54","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2019-06-08 11:01:31.968","file":"demo5/main.go:54","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2019-06-08 11:01:32.970","file":"demo5/main.go:54","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2019-06-08 11:01:33.974","file":"demo5/main.go:54","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2019-06-08 11:01:34.978","file":"demo5/main.go:54","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2019-06-08 11:01:35.982","file":"demo5/main.go:54","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2019-06-08 11:01:36.986","file":"demo5/main.go:54","msg":"Waiting for the router, retry in 1 second"}
+{"level":"FATAL","timestamp":"2019-06-08 11:01:37.992","file":"demo5/main.go:39","msg":"The router has no response, or it might took too long to start up.","data":{"error":"Cannot connect to the router","trace":"goroutine 22 [running]:\ngithub.com/lexkong/log/lager.(*logger).logs(0xc0002a28a0, 0xc0002464e0, 0x2, 0x2, 0x4, 0x4890be1, 0x42, 0x4992080, 0xc0002464c0, 0x0, ...)\n\t/Users/pollux/Applications/go/src/github.com/lexkong/log/lager/logger.go:135 +0x8de\ngithub.com/lexkong/log/lager.(*logger).log(0xc0002a28a0, 0x4, 0x4890be1, 0x42, 0x4992080, 0xc0002464c0, 0x0, 0x0, 0x0)\n\t/Users/pollux/Applications/go/src/github.com/lexkong/log/lager/logger.go:123 +0xd9\ngithub.com/lexkong/log/lager.(*logger).Fatal(0xc0002a28a0, 0x4890be1, 0x42, 0x4992080, 0xc0002464c0, 0x0, 0x0, 0x0)\n\t/Users/pollux/Applications/go/src/github.com/lexkong/log/lager/logger.go:197 +0x83\ngithub.com/lexkong/log.Fatal(...)\n\t/Users/pollux/Applications/go/src/github.com/lexkong/log/st_lager.go:162\nmain.main.func1()\n\t/Users/pollux/Documents/MySample/github/golang_learning/juejin_api_server/src/demo5/main.go:39 +0xc6\ncreated by main.main\n\t/Users/pollux/Documents/MySample/github/golang_learning/juejin_api_server/src/demo5/main.go:37 +0x1a5\n"}}
+{"level":"INFO","timestamp":"2019-06-08 11:17:11.220","file":"demo5/main.go:41","msg":"The router has been deployed successfully."}
+{"level":"ERROR","timestamp":"2019-06-23 18:30:37.761","file":"model/init.go:28","msg":"Database connection failed. Database name :db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"ERROR","timestamp":"2019-06-23 18:30:37.762","file":"model/init.go:28","msg":"Database connection failed. Database name :","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2019-06-23 18:30:37.765","file":"demo6/main.go:41","msg":"The router has been deployed successfully."}
+{"level":"ERROR","timestamp":"2019-06-23 18:47:06.602","file":"model/init.go:28","msg":"Database connection failed. Database name :db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"ERROR","timestamp":"2019-06-23 18:47:06.604","file":"model/init.go:28","msg":"Database connection failed. Database name :","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2019-06-23 18:47:06.607","file":"demo6/main.go:41","msg":"The router has been deployed successfully."}
+{"level":"ERROR","timestamp":"2019-06-23 18:48:25.598","file":"model/init.go:28","msg":"Database connection failed. Database name :db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"ERROR","timestamp":"2019-06-23 18:48:25.599","file":"model/init.go:28","msg":"Database connection failed. Database name :","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2019-06-23 18:48:28.168","file":"demo6/main.go:41","msg":"The router has been deployed successfully."}
+{"level":"ERROR","timestamp":"2019-06-23 20:44:36.503","file":"model/init.go:28","msg":"Database connection failed. Database name :db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"ERROR","timestamp":"2019-06-23 20:44:36.503","file":"model/init.go:28","msg":"Database connection failed. Database name :","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2019-06-23 20:45:44.626","file":"demo6/main.go:41","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-06-23 20:46:31.890","file":"demo6/main.go:41","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-06-23 20:47:24.359","file":"user/create.go:21","msg":"URL username: admin2"}
+{"level":"INFO","timestamp":"2019-06-23 20:47:24.360","file":"user/create.go:25","msg":"URL key param desc: "}
+{"level":"INFO","timestamp":"2019-06-23 20:47:24.360","file":"user/create.go:28","msg":"Head Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2019-06-23 20:47:24.360","file":"user/create.go:30","msg":"username is: [admin], password is [admin123]"}
+{"level":"INFO","timestamp":"2019-06-23 20:47:40.338","file":"user/create.go:21","msg":"URL username: admin2"}
+{"level":"INFO","timestamp":"2019-06-23 20:47:40.338","file":"user/create.go:25","msg":"URL key param desc: test"}
+{"level":"INFO","timestamp":"2019-06-23 20:47:40.338","file":"user/create.go:28","msg":"Head Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2019-06-23 20:47:40.339","file":"user/create.go:30","msg":"username is: [admin], password is [admin123]"}

@@ -2,54 +2,94 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cc0b91d-3f72-4b3c-8fe7-d18b96369b46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../basic_golang/.idea/codeStyleSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../basic_golang/.idea/libraries/GOPATH__basic_golang_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../basic_golang/hellogo.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/hello.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/consttest/const_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/fib/fib_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/test/first_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/type_test/type_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/operator_test/operator_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/condition/condition_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/loop/loop_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/array/array_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/slice/slice_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/map/map_ext_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/string/string_fun_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/string/string_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/customer_type/customer_type_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/encapsulation/encap_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11/interface/interface_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/extension/extension_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/empty_interface/empty_interface_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch15/client/package_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch15/remote_package/remote_package_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch15/series/my_series.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16/csp/csp_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16/groutine/groutine_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16/share_mem/share_mem_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch19/select/select_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20/channel_close/channel_close_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch21/any_reply/first_response_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch21/singleton/once_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch23/any_reply/first_response_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch23/singleton/once_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch33/obj_cache/sync_pool_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go_concurreny/src/ch01/chinese.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go_concurreny/src/ch01/simple.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go_concurreny/src/ch02/chatbot/chatbot.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go_concurreny/src/ch02/chatbot/chinese.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go_concurreny/src/ch02/chatbot/english.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go_concurreny/src/ch02/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go_concurreny/src/ch03/ProcessDemo.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go_concurreny/src/ch03/pipeline/pipeline_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go_concurreny/src/ch03/socket/my_client.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go_concurreny/src/ch03/socket/my_server.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../begining_learning/bin/gocode" beforeDir="false" afterPath="$PROJECT_DIR$/../begining_learning/bin/gocode" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../begining_learning/src/github.com/nsf/gocode" beforeDir="false" afterPath="$PROJECT_DIR$/../begining_learning/src/github.com/nsf/gocode" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyGolangDemo/chapter3/pointer/pointer_demo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyGolangDemo/chapter3/strconv_demo/strconvdemo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyGolangDemo/chapter5/closure/closure_demo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyGolangDemo/chapter5/closure1/closure_demo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyGolangDemo/chapter5/function/function_demo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyGolangDemo/chapter5/function1/function_param.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch35/benchmark/concat_string_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch37/reflect/reflect_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch37/test/go_ai.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/_temp/model.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/_temp/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo1/handler/sd/check.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo1/router/middleware/header.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo1/router/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo2/conf/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo2/config/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo2/handler/sd/check.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo2/router/middleware/header.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo2/router/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo3/conf/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo3/config/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo4/conf/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo4/config/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo4/handler/sd/check.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo4/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo4/model/init.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo4/router/middleware/header.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo4/router/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo5/conf/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo5/config/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo5/handler/sd/check.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo5/handler/user/create.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo5/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo5/model/init.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo5/pkg/errno/code.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo5/pkg/errno/errno.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo5/router/middleware/header.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo5/router/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo6/conf/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo6/config/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo6/handler/handler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo6/handler/sd/check.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo6/handler/user/create.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo6/handler/user/delete.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo6/handler/user/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo6/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo6/model/init.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo6/model/model.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo6/model/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo6/pkg/errno/code.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo6/pkg/errno/errno.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo6/router/middleware/header.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo6/router/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo7/conf/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo7/config/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo7/handler/handler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo7/handler/sd/check.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo7/handler/user/create.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo7/handler/user/delete.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo7/handler/user/get.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo7/handler/user/list.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo7/handler/user/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo7/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo7/model/init.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo7/model/model.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo7/model/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo7/pkg/auth/auth.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo7/pkg/constvar/constvar.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo7/pkg/errno/code.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo7/pkg/errno/errno.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo7/router/middleware/header.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo7/router/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juejin_api_server/src/demo7/service/service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycrawler_colly/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycrawler_colly/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycrawler_colly/src/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycrawler_colly/src/model/login.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../the_go_programming_language/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../the_go_programming_language/ch01/dup2/dup2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../the_go_programming_language/ch01/dup2/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../the_go_programming_language/ch01/dup3/dup3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../the_go_programming_language/ch01/fetch/fetch.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../the_go_programming_language/ch01/fetchall/fetchall.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyGolangDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyGolangDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,60 +99,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch16/groutine/groutine_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch16/share_mem/share_mem_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="812">
-              <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch16/csp/csp_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch19/select/select_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch20/channel_close/channel_close_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch21/singleton/once_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ch21/any_reply/first_response_test.go">
           <provider selected="true" editor-type-id="text-editor">
@@ -125,20 +111,74 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ch23/any_reply/first_response_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
+            <state relative-caret-position="522">
               <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ch33/obj_cache/sync_pool_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+            <state relative-caret-position="464">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch35/benchmark/concat_string_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1189">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch37/reflect/reflect_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch37/test/go_ai.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch01/hello.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
               <folding>
-                <element signature="e#24#53#0" expanded="true" />
+                <element signature="e#14#37#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ch02/consttest/const_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Applications/go/src/github.com/stretchr/testify/assert/forward_assertions.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -158,7 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="/usr/local/Cellar/go/1.11.4/libexec" />
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.12.3/libexec" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -206,6 +246,9 @@
         <option value="$PROJECT_DIR$/src/ch21/any_reply/first_response_test.go" />
         <option value="$PROJECT_DIR$/src/ch23/any_reply/first_response_test.go" />
         <option value="$PROJECT_DIR$/src/ch33/obj_cache/sync_pool_test.go" />
+        <option value="$PROJECT_DIR$/src/ch35/benchmark/concat_string_test.go" />
+        <option value="$PROJECT_DIR$/src/ch37/reflect/reflect_test.go" />
+        <option value="$PROJECT_DIR$/src/ch37/test/go_ai.go" />
       </list>
     </option>
   </component>
@@ -220,6 +263,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -236,24 +280,25 @@
               <item name="geekvideo_learninggo" type="b2602c69:ProjectViewProjectNode" />
               <item name="geekvideo_learninggo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ch33" type="462c0819:PsiDirectoryNode" />
+              <item name="ch01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="geekvideo_learninggo" type="b2602c69:ProjectViewProjectNode" />
               <item name="geekvideo_learninggo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ch33" type="462c0819:PsiDirectoryNode" />
-              <item name="obj_cache" type="462c0819:PsiDirectoryNode" />
+              <item name="ch02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="geekvideo_learninggo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="geekvideo_learninggo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ch02" type="462c0819:PsiDirectoryNode" />
+              <item name="consttest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -263,6 +308,7 @@
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
     <property name="go.vendoring.notification.had.been.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -289,102 +335,128 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Test.TestSyncPool in ch33/obj_cache">
-    <configuration name="TestFirstResponse in ch21/any_reply" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build go_ai.go">
+    <configuration name="go build go_ai.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="geekvideo_learninggo" />
-      <working_directory value="$PROJECT_DIR$/src/ch21/any_reply" />
-      <framework value="gotest" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/ch37/test/go_ai.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BenchmarkConcatStringByAdd in ch35/benchmark" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="geekvideo_learninggo" />
+      <working_directory value="$PROJECT_DIR$/src/ch35/benchmark" />
+      <framework value="gobench" />
       <kind value="PACKAGE" />
-      <package value="ch21/any_reply" />
+      <package value="ch35/benchmark" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestFirstResponse$" />
+      <pattern value="^BenchmarkConcatStringByAdd$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestSyncPool in ch33/obj_cache" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="BenchmarkConcatStringByByteBuffer in ch35/benchmark" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="geekvideo_learninggo" />
-      <working_directory value="$PROJECT_DIR$/src/ch33/obj_cache" />
-      <framework value="gotest" />
+      <working_directory value="$PROJECT_DIR$/src/ch35/benchmark" />
+      <framework value="gobench" />
       <kind value="PACKAGE" />
-      <package value="ch33/obj_cache" />
+      <package value="ch35/benchmark" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestSyncPool$" />
+      <pattern value="^BenchmarkConcatStringByByteBuffer$" />
       <method v="2" />
     </configuration>
-    <configuration name="first_response_test.go (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestBasicType in ch37/reflect" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="geekvideo_learninggo" />
-      <working_directory value="$PROJECT_DIR$/src/ch23/any_reply" />
+      <working_directory value="$PROJECT_DIR$/src/ch37/reflect" />
       <framework value="gotest" />
-      <kind value="FILE" />
+      <kind value="PACKAGE" />
+      <package value="ch37/reflect" />
       <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/src/ch23/any_reply/first_response_test.go" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestBasicType$" />
       <method v="2" />
     </configuration>
-    <configuration name="first_response_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestConcatStringByAdd in ch35/benchmark" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="geekvideo_learninggo" />
-      <working_directory value="$PROJECT_DIR$/src/ch21/any_reply" />
+      <working_directory value="$PROJECT_DIR$/src/ch35/benchmark" />
       <framework value="gotest" />
-      <kind value="FILE" />
+      <kind value="PACKAGE" />
+      <package value="ch35/benchmark" />
       <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/src/ch21/any_reply/first_response_test.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="once_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="geekvideo_learninggo" />
-      <working_directory value="$PROJECT_DIR$/src/ch21/singleton" />
-      <framework value="gotest" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/src/ch21/singleton/once_test.go" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestConcatStringByAdd$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.TestSyncPool in ch33/obj_cache" />
-        <item itemvalue="Go Test.first_response_test.go (1)" />
-        <item itemvalue="Go Test.first_response_test.go" />
-        <item itemvalue="Go Test.TestFirstResponse in ch21/any_reply" />
-        <item itemvalue="Go Test.once_test.go" />
+        <item itemvalue="Go Build.go build go_ai.go" />
+        <item itemvalue="Go Test.TestBasicType in ch37/reflect" />
+        <item itemvalue="Go Test.BenchmarkConcatStringByAdd in ch35/benchmark" />
+        <item itemvalue="Go Test.BenchmarkConcatStringByByteBuffer in ch35/benchmark" />
+        <item itemvalue="Go Test.TestConcatStringByAdd in ch35/benchmark" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="TestGetSingletonObj_in_ch21_singleton - 2019.04.27 at 20h 26m 55s.xml">
-      <configuration name="TestGetSingletonObj in ch21/singleton" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestGetSingletonObj_in_ch21_singleton - 2019.04.27 at 20h 28m 37s.xml">
-      <configuration name="TestGetSingletonObj in ch21/singleton" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="once_test_go - 2019.04.27 at 20h 29m 10s.xml">
-      <configuration name="once_test.go" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="once_test_go - 2019.04.27 at 20h 29m 42s.xml">
-      <configuration name="once_test.go" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="first_response_test_go - 2019.04.27 at 20h 54m 31s.xml">
-      <configuration name="first_response_test.go" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="first_response_test_go - 2019.04.27 at 20h 54m 36s.xml">
-      <configuration name="first_response_test.go" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestFirstResponse_in_ch21_any_reply - 2019.04.27 at 20h 55m 46s.xml">
-      <configuration name="TestFirstResponse in ch21/any_reply" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="first_response_test_go - 2019.04.27 at 21h 12m 48s.xml">
-      <configuration name="first_response_test.go" configurationId="GoTestRunConfiguration" />
-    </history-entry>
     <history-entry file="first_response_test_go_(1) - 2019.05.01 at 08h 19m 26s.xml">
       <configuration name="first_response_test.go (1)" configurationId="GoTestRunConfiguration" />
     </history-entry>
     <history-entry file="TestSyncPool_in_ch33_obj_cache - 2019.05.01 at 10h 21m 04s.xml">
       <configuration name="TestSyncPool in ch33/obj_cache" configurationId="GoTestRunConfiguration" />
     </history-entry>
+    <history-entry file="TestSyncPool_in_ch33_obj_cache - 2019.05.01 at 10h 22m 28s.xml">
+      <configuration name="TestSyncPool in ch33/obj_cache" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestConcatStringByAdd_in_ch35_benchmark - 2019.05.01 at 10h 35m 32s.xml">
+      <configuration name="TestConcatStringByAdd in ch35/benchmark" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestConcatStringByByteBuffer_in_ch35_benchmark - 2019.05.01 at 10h 39m 56s.xml">
+      <configuration name="TestConcatStringByByteBuffer in ch35/benchmark" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestConcatStringByAdd_in_ch35_benchmark - 2019.05.01 at 10h 40m 09s.xml">
+      <configuration name="TestConcatStringByAdd in ch35/benchmark" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="BenchmarkConcatStringByByteBuffer_in_ch35_benchmark - 2019.05.01 at 10h 44m 19s.xml">
+      <configuration name="BenchmarkConcatStringByByteBuffer in ch35/benchmark" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="BenchmarkConcatStringByAdd_in_ch35_benchmark - 2019.05.01 at 10h 44m 38s.xml">
+      <configuration name="BenchmarkConcatStringByAdd in ch35/benchmark" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestBasicType_in_ch37_reflect - 2019.05.01 at 11h 04m 08s.xml">
+      <configuration name="TestBasicType in ch37/reflect" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestBasicType_in_ch37_reflect - 2019.05.01 at 11h 04m 33s.xml">
+      <configuration name="TestBasicType in ch37/reflect" configurationId="GoTestRunConfiguration" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24110033" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.51229507" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3989071" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Statistic" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.329235" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24110033" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -406,23 +478,24 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Key Promoter X" order="3" />
       <window_info anchor="right" id="Database" order="4" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/ch33/obj_cache/sync_pool_test.go</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ch06/array.go" />
-    <entry file="file://$PROJECT_DIR$/src/ch01/hello.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-          <folding>
-            <element signature="e#14#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ch02/test/first_test.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -465,13 +538,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/Cellar/go/1.11.4/libexec/src/math/const.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1131">
-          <caret line="39" column="2" selection-start-line="39" selection-start-column="2" selection-end-line="39" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///usr/local/Cellar/go/1.11.4/libexec/src/math/const.go" />
     <entry file="file://$PROJECT_DIR$/src/ch02/fib/fib_test.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="754">
@@ -538,13 +605,6 @@
           <folding>
             <element signature="e#19#47#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch02/consttest/const_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
@@ -631,23 +691,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch15/remote_package/glide.yaml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ch23/any_reply/first_response_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
+        <state relative-caret-position="522">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch33/obj_cache/sync_pool_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        <state relative-caret-position="464">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch35/benchmark/concat_string_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1189">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch37/reflect/reflect_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Applications/go/src/github.com/stretchr/testify/assert/forward_assertions.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch15/remote_package/glide.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch37/test/go_ai.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch01/hello.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
           <folding>
-            <element signature="e#24#53#0" expanded="true" />
+            <element signature="e#14#37#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch02/consttest/const_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
