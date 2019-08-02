@@ -1,8 +1,10 @@
 package src
 
 import (
-	"github.com/gocolly/colly"
 	"./model"
+	"encoding/json"
+	"github.com/gocolly/colly"
+	"github.com/siddontang/go-log/log"
 )
 
 func main() {
@@ -18,9 +20,11 @@ func main() {
 		Remember: 1,
 	}
 
-
+	bData, _:= json.MarshalIndent(loginRequest, "", "\t")
 
 	//model.LoginRequest{}
-
-	err := c.Post("https://account.geekbang.org/account/ticket/login", &loginRequest)
+	err := c.PostRaw("https://account.geekbang.org/account/ticket/login", bData);
+	if err != nil {
+		log.Fatalln(err)
+	}
 }
