@@ -4,7 +4,7 @@ import (
 	"./model"
 	"encoding/json"
 	"github.com/gocolly/colly"
-	"github.com/siddontang/go-log/log"
+	"log"
 )
 
 func main() {
@@ -15,7 +15,7 @@ func main() {
 		Captcha: "",
 		Cellphone: "13599521190",
 		Country: 86,
-		Password: "jbgsnmm389876",
+		Password: "",
 		Platform: 3,
 		Remember: 1,
 	}
